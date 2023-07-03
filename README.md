@@ -10,3 +10,4 @@ https://code.visualstudio.com/download (please follow the options on the website
 
 ## Usage
 The program has clear steps that you will need to follow. You are guided through each step until completion
+Please see screenshot for example of use
